@@ -14,8 +14,8 @@
         <updated>2024-04-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Title Understanding the Core Concepts]]></summary>
         <content type="html"><![CDATA[<p>Title: The Art of System Programming: Understanding the Core Concepts</p>
-<p>System programming is a fascinating realm that delves into the intricate details of how software interacts with hardware.</p>
-<p>It is a discipline that requires a deep understanding of computer architecture, operating systems, and programming languages. In this brief read, we'll explore some fundamental concepts of system programming.</p>
+<p>-- Dafi, Hatta, Naufal</p>
+<p>System programming is a fascinating realm that delves into the intricate details of how software interacts with hardware. It is a discipline that requires a deep understanding of computer architecture, operating systems, and programming languages. In this brief read, we'll explore some fundamental concepts of system programming.</p>
 <p><strong>1. What is System Programming?</strong></p>
 <p>System programming involves writing software that directly interacts with the underlying hardware of a computer system. This includes tasks such as device drivers, operating systems, compilers, and low-level libraries. System programmers often work close to the hardware, optimizing performance and ensuring efficient resource utilization.</p>
 <p><strong>2. Key Concepts in System Programming</strong></p>
