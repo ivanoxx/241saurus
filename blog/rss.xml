@@ -4,10 +4,34 @@
         <title>241saurus - ivanoxx Blog</title>
         <link>https://ivanoxx.github.io/241saurus/blog</link>
         <description>241saurus - ivanoxx Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Pop Quiz]]></title>
+            <link>https://ivanoxx.github.io/241saurus/blog/POP-QUIZ</link>
+            <guid>https://ivanoxx.github.io/241saurus/blog/POP-QUIZ</guid>
+            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Title Understanding the Core Concepts]]></description>
+            <content:encoded><![CDATA[<p>Title: The Art of System Programming: Understanding the Core Concepts</p>
+<p>System programming is a fascinating realm that delves into the intricate details of how software interacts with hardware. It is a discipline that requires a deep understanding of computer architecture, operating systems, and programming languages. In this brief read, we'll explore some fundamental concepts of system programming.</p>
+<p><strong>1. What is System Programming?</strong></p>
+<p>System programming involves writing software that directly interacts with the underlying hardware of a computer system. This includes tasks such as device drivers, operating systems, compilers, and low-level libraries. System programmers often work close to the hardware, optimizing performance and ensuring efficient resource utilization.</p>
+<p><strong>2. Key Concepts in System Programming</strong></p>
+<p><strong>a. Memory Management:</strong> System programmers must understand how memory is managed by the operating system. This includes concepts such as virtual memory, memory allocation, and deallocation. Efficient memory management is crucial for performance and stability.</p>
+<p><strong>b. Process Management:</strong> Operating systems manage processes, which are instances of running programs. System programmers need to understand how processes are created, scheduled, and managed. This includes concepts such as process synchronization and communication.</p>
+<p><strong>c. File Systems:</strong> System programmers work with file systems to manage storage and organize data. This involves understanding how files are stored, accessed, and managed by the operating system.</p>
+<p><strong>d. Device Drivers:</strong> Device drivers are software components that allow the operating system to communicate with hardware devices. System programmers write device drivers to enable the operating system to control hardware such as printers, disk drives, and network interfaces.</p>
+<p><strong>e. Networking:</strong> System programmers often work with networking protocols and APIs to enable communication between computers. This includes understanding concepts such as TCP/IP, sockets, and network programming.</p>
+<p><strong>3. Tools and Languages</strong></p>
+<p>System programmers typically use languages such as C and C++ for system-level programming, as these languages provide low-level control over hardware and memory. They also use tools such as debuggers, profilers, and system monitoring utilities to develop and optimize system software.</p>
+<p><strong>4. Conclusion</strong></p>
+<p>System programming is a challenging yet rewarding field that requires a deep understanding of computer systems and software development. By mastering the core concepts of system programming, developers can create efficient, reliable, and high-performance software that powers modern computing systems.</p>
+<p>In summary, system programming is an essential aspect of software development that requires a deep understanding of computer architecture, operating systems, and programming languages. System programmers work close to the hardware, optimizing performance and ensuring efficient resource utilization. By mastering the core concepts of system programming, developers can create efficient, reliable, and high-performance software that powers modern computing systems.</p>]]></content:encoded>
+            <category>POPQUIZ</category>
+            <category>WEEK07</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://ivanoxx.github.io/241saurus/blog/welcome</link>
